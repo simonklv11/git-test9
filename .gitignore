@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+GitTest9.iml
 .kotlin
 
 ### Eclipse ###
