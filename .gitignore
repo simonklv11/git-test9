@@ -4,6 +4,8 @@ out/
 !**/src/test/**/out/
 GitTest9.iml
 .kotlin
+.idea
+GitTest9.iml
 
 ### Eclipse ###
 .apt_generated
